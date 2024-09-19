@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "7eac8d829827a032cd9833a8e4d0a974246f36d701a21860b6f9c1b244a0f947"
+build_start_time: [1726757399, 321261882]
+build_end_time: [1726757402, 525888919]
+inputs:
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Controllers/ChatViewController.swift": [1726757393, 493888139]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Controllers/LoginViewController.swift": [1726567342, 583485603]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/EncryptionManager.swift": [1726567945, 178394317]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Models/Message.swift": [1726757385, 14655113]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Models/User.swift": [1726567300, 190285205]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/NetworkManager.swift": [1726568250, 575403690]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Presenters/ChatPresenter.swift": [1726581418, 437269210]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Presenters/ChatPresenterProtocol.swift": [1726570607, 366454362]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Presenters/LoginPresenter.swift": [1726567835, 930086612]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Presenters/LoginPresenterProtocol.swift": [1726567374, 553615570]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/SupportFIles/AppDelegate.swift": [1726757399, 238113880]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/SupportFIles/SceneDelegate.swift": [1726567239, 51255226]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Views/ChatMessageCell.swift": [1726567460, 150156974]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Views/ChatViewProtocol.swift": [1726567423, 515010356]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/Views/LoginViewProtocol.swift": [1726567325, 17765283]

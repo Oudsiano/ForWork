@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "7eac8d829827a032cd9833a8e4d0a974246f36d701a21860b6f9c1b244a0f947"
+build_start_time: [1726564250, 162812948]
+build_end_time: [1726564250, 192677021]
+inputs:
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/AppDelegate.swift": !private [1726564249, 652773857]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/SceneDelegate.swift": !private [1726564144, 287076234]
+  "/Users/nataliemikheeva/SwiftUI/ForWork/ForWork/ViewController.swift": !private [1726564144, 288413763]
